@@ -10,6 +10,25 @@ Here is the detail
 ## Sas-loader    : 12.6.0
 ## Materialdesignicons.
 
+## Project setup
+```
+> npm install
+```
+## Compiles and hot-reloads for development
+```
+> npm run serve
+```
+## Compiles and minifies for production
+```
+> npm run build
+```
+## Lints and fixes files
+```
+> npm run lint
+
+```
+
+
 All of this packages are already inside of this project.
 Clone and run.
 Enjoy.
