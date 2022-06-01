@@ -25,7 +25,6 @@ Here is the detail
 ## Lints and fixes files
 ```
  npm run lint
-
 ```
 
 
